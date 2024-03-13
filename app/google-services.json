@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945246085622",
+    "project_id": "notespassword-25d83",
+    "storage_bucket": "notespassword-25d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945246085622:android:f6f382d93dde167b3de7d7",
+        "android_client_info": {
+          "package_name": "com.example.notespassword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI_LRCiUU2A3Wix5LgMZAi8vpiYycLRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
